@@ -1,0 +1,55 @@
+
+
+.medi-magic-sponsor-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #d9d9ea;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .medi-magic-sponsor-container h2 {
+    color: #4CAF50;
+  }
+  
+  .medi-magic-sponsor-container p {
+    color: #555; 
+  }
+  
+  .medi-magic-sponsor-feature {
+    display: flex;
+    margin-bottom: 30px;
+  }
+  
+  .medi-magic-sponsor-icon {
+    flex: 1;
+  }
+  
+  .medi-magic-sponsor-icon img {
+    width: 100%;
+    max-width: 60px;
+    height: auto;
+  }
+  
+  .medi-magic-sponsor-details {
+    flex: 4;
+    padding-left: 20px;
+  }
+  
+  .medi-magic-sponsor-details h3 {
+    color: #2196F3;
+  }
+  
+  .medi-magic-sponsor-details p {
+    color: #777; 
+  }
+  
+  .medi-magic-sponsor-refund-info {
+    margin-top: 20px;
+  }
+  
+  .medi-magic-sponsor-refund-info p {
+    color: #9C27B0; 
+  }
+  

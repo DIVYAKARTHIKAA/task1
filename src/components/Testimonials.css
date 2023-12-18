@@ -1,0 +1,41 @@
+.h11{
+    font-size: 41px;
+  
+  margin-inline: 359px;
+}
+
+.medical-testimonials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .medical-testimonial {
+    background-color: #b6e0ed;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    max-width: 600px;
+    text-align: left;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .medical-testimonial h3 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .medical-testimonial p {
+    color: #555;
+    line-height: 1.4;
+  }
+  
+  .testimonial-author {
+    display: block;
+    font-style: italic;
+    margin-top: 10px;
+    color: #888;
+  }
+  
